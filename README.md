@@ -54,4 +54,5 @@ It helps identify risk clusters and improvement opportunities for insurance busi
 ## Conclusion
 
 This dashboard provides insights into risk-prone demographics, car types, and regions.
+
 It helps insurance providers strategize pricing, reduce losses, and improve customer profiling.
